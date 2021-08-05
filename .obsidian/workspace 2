@@ -1,0 +1,120 @@
+{
+  "main": {
+    "id": "3cca8cf68f15f376",
+    "type": "split",
+    "children": [
+      {
+        "id": "89f76f720afb1e6a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mail with Allyson Park.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4cb1656c7daa189c",
+    "type": "split",
+    "children": [
+      {
+        "id": "91571f1108f13b2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffd023d9fcb6230c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "180e00cdd43efc1f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Important",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ab55eca55e6edd44",
+    "type": "split",
+    "children": [
+      {
+        "id": "801871ebbca7c3df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1dba6d412b4fa233",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mail with Allyson Park.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ecb2cd4550eb28e4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mail with Allyson Park.md"
+              }
+            }
+          },
+          {
+            "id": "54f78f2029b70c0a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "89f76f720afb1e6a",
+  "lastOpenFiles": [
+    "Mail with Allyson Park.md",
+    "210802.md",
+    "C/C Language Note Taking.md",
+    "C/codes/210802/two_array1.md",
+    "C/C.md",
+    "C/C Lang Study Plan.md",
+    "My Projects.md",
+    "무제노트.md",
+    "for Obsidian Noobs.md",
+    "C Lang Study Plan.md"
+  ]
+}

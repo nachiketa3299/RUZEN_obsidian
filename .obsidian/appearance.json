@@ -1,0 +1,9 @@
+{
+  "baseFontSize": 16,
+  "cssTheme": "Night Owl",
+  "theme": "obsidian",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "my_font"
+  ]
+}

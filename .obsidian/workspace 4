@@ -1,0 +1,106 @@
+{
+  "main": {
+    "id": "2ec8c721bc33873f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b824de198a569299",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e86209ef15c6da1",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d6b0393ad7b2b4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83515ffc61db36c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "157fe0d3e8985e7c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4a101c27f4fb04f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a5060c150faf722",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "693cc0c46a1d30a0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "50fa7cbfa2b87a9e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bdc2940f40a2bf86",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b824de198a569299",
+  "lastOpenFiles": []
+}

@@ -1,0 +1,132 @@
+{
+  "main": {
+    "id": "9acf8d2810361f3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d728ccd23300b9cb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "😍 21/2108.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bb24a16912a7b414",
+    "type": "split",
+    "children": [
+      {
+        "id": "de08c340da5746d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ba90cd7332a5e45",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f32c5c4ea7408ca9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 237.5
+  },
+  "right": {
+    "id": "c98e8449c13f2c54",
+    "type": "split",
+    "children": [
+      {
+        "id": "07b45acac7c5e705",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b3cf352cd66d1a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "😍 21/2108.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e6427e341e98cfd8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cb737fd6c89abcb9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "😍 21/2108.md"
+              }
+            }
+          },
+          {
+            "id": "a6ec56ea947b9fcf",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 320.5001220703125,
+    "collapsed": true
+  },
+  "active": "d728ccd23300b9cb",
+  "lastOpenFiles": [
+    "😍 21/2108.md",
+    "Projects/My Projects.md",
+    "Review/Movie/Movies.md",
+    "모가디슈.md",
+    "Review/Movies.md",
+    "Projects/C/C Lang Study Plan.md",
+    "Projects/C/C.md",
+    "😍 Weekly/2108.md",
+    "Projects/Death Stranding 감상문 작성.md",
+    "Projects/C/C Lang Study Plan 2.md"
+  ]
+}

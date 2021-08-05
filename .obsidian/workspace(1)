@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "cf890694c6d9166d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ea83991abf422e7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Projects/My Projects.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "2f03c6c12711ebd3",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "a72daff1d3524ad8",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cee9fe01b95bdb50",
+    "type": "split",
+    "children": [
+      {
+        "id": "687083683229a943",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fad553f5747811e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4e7b096145600c8c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b92d905f2ed3f8de",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0f758011c457110",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82543598c72cef57",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e848a4167b8b9022",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "58664e20889798dd",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d7db20a6b6f5ed93",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "789bf3b380495813",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100,
+    "collapsed": true
+  },
+  "active": "a72daff1d3524ad8",
+  "lastOpenFiles": [
+    "스무제노트.md",
+    "무제노트.md",
+    "무제노트 1.md",
+    "My Projects.md",
+    "Python Study.md",
+    "해시(Hash).md",
+    "sequence.md",
+    "시퀀스 공통 연산.md",
+    "iterable.md",
+    "iterator.md"
+  ]
+}

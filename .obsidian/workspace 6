@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "cf890694c6d9166d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c026b9bf841fd235",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Projects/Wiki/배열의 이름과 포인터의 관계에 대해서.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cee9fe01b95bdb50",
+    "type": "split",
+    "children": [
+      {
+        "id": "687083683229a943",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fad553f5747811e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4e7b096145600c8c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Ongoing_Project",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 173,
+    "collapsed": true
+  },
+  "right": {
+    "id": "b92d905f2ed3f8de",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0f758011c457110",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82543598c72cef57",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Projects/Wiki/배열의 이름과 포인터의 관계에 대해서.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e848a4167b8b9022",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Projects/Wiki/배열의 이름과 포인터의 관계에 대해서.md"
+              }
+            }
+          },
+          {
+            "id": "58664e20889798dd",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d7db20a6b6f5ed93",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 189,
+    "collapsed": true
+  },
+  "active": "c026b9bf841fd235",
+  "lastOpenFiles": [
+    "Projects/Wiki/배열의 이름과 포인터의 관계에 대해서.md",
+    "무제노트.md",
+    "Projects/Wiki/2차원 배열의 이름에 대해서.md",
+    "Projects/C/C Language Note Taking.md",
+    "Projects/C/C Lang Study Plan.md",
+    "Daily/210804.md",
+    "Daily/210805.md",
+    "Daily/210803.md",
+    "2차원 배열의 이름에 대해서.md",
+    "😍 Projects/C/C Language Note Taking.md"
+  ]
+}

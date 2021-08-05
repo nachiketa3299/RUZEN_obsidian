@@ -1,0 +1,134 @@
+{
+  "main": {
+    "id": "cf890694c6d9166d",
+    "type": "split",
+    "children": [
+      {
+        "id": "eaf16af00a14a5d9",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cee9fe01b95bdb50",
+    "type": "split",
+    "children": [
+      {
+        "id": "687083683229a943",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fad553f5747811e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4e7b096145600c8c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b92d905f2ed3f8de",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0f758011c457110",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82543598c72cef57",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e848a4167b8b9022",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "58664e20889798dd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d7db20a6b6f5ed93",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "789bf3b380495813",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 445,
+    "collapsed": true
+  },
+  "active": "eaf16af00a14a5d9",
+  "lastOpenFiles": [
+    "무제노트.md",
+    "210803.md",
+    "Day Planners/Day Planner-20210803.md",
+    "2021-08-03.md",
+    "Mail with Allyson Park.md",
+    "for Obsidian Noobs.md",
+    "아이오에스 테스트.md",
+    "Weekly.md",
+    "My Projects.md",
+    "2021-2 수강신청/2021-2 수강신청 일정 안내.md"
+  ]
+}
