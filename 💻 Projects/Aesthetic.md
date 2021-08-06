@@ -51,7 +51,7 @@
 
 
 # Exercise & Diet
-- [[Crossfit]] 주 5회
+- [[C210806]] 주 5회
 
 # Outfit
 ## Bose vs Domestic

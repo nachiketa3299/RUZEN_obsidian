@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d728ccd23300b9cb",
+        "id": "8387fcbbc94209b1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "예술비평연구회 징계건 타임라인.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Preparing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,7 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 247.49999809265137
   },
   "right": {
     "id": "c98e8449c13f2c54",
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "예술비평연구회 징계건 타임라인.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "예술비평연구회 징계건 타임라인.md"
-              }
+              "state": {}
             }
           },
           {
@@ -109,23 +103,24 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 320.5001220703125
+    "width": 320.5001220703125,
+    "collapsed": true
   },
-  "active": "d728ccd23300b9cb",
+  "active": "8387fcbbc94209b1",
   "lastOpenFiles": [
-    "예술비평연구회 징계건 타임라인.md",
-    "😍 21/2108.md",
-    "😍 21/예온정신의학과 상담 일지.md",
+    "🍎 Routines/Daily/210807.md",
     "Home.md",
-    "💻 Projects/Computer/C/C Study Plan.md",
     "💻 Projects/Computer/C/C.md",
-    "💻 Projects/Wiki/배열의 이름과 포인터의 관계에 대해서.md",
-    "예온정신의학과 상담 일지.md",
-    "Projects/Crossfit.md",
-    "Projects/무제노트.md"
+    "💻 Projects/Computer/C/C Study Plan.md",
+    "🍎 Routines/Daily/210806.md",
+    "💻 Projects/My Projects.md",
+    "🍎 Routines/Daily/무제노트.md",
+    "🍎 Routines/TodoList.md",
+    "210807.md",
+    "😍 21/Mental Care Report.md"
   ]
 }

@@ -1,12 +1,9 @@
 # RUZEN's Homepage
-## TodoList
-### Weekly Summary
-![[2108#Weekly 03 - 06 Todo]]
-### Daily Summary
-![[2108#06]]
+## Today
+![[210807]]
 
 ## Projects
-![[My Projects#All Projects]]
+![[My Projects#진행중인 프로젝트]]
 
 ## Links
 ### Personal
@@ -20,6 +17,3 @@
 
 ## ETC
 ![[Things I Want to do]]
-
-
-## Bookmarks

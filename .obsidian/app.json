@@ -5,7 +5,7 @@
   "vimMode": true,
   "alwaysUpdateLinks": true,
   "lineWrap": true,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "promptDelete": false,
   "showUnsupportedFiles": true,
   "pdfExportSettings": {
@@ -14,6 +14,9 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "attachmentFolderPath": "Projects",
-  "showFrontmatter": true
+  "attachmentFolderPath": "Img",
+  "showFrontmatter": true,
+  "defaultViewMode": "preview",
+  "emacsyKeys": false,
+  "fileSortOrder": "alphabetical"
 }

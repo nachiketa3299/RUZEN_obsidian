@@ -21,9 +21,9 @@
   --font-size-h4: 20px;
   --font-size-h5: 19px;
   --font-size-h6: 18px;
-  --font-family-editor: IBM Plex Mono, Menlo, Monaco, Courier New, monospace;
-  --font-family-preview: Karla, Avenir Next, Helvetica, Arial, sans-serif;
-  --font-family-preview-heading: Rubik, Avenir Next, Helvetica, Arial, sans-serif; }
+  --font-family-editor: D2Coding, IBM Plex Mono, Menlo, Monaco, Courier New, monospace;
+  --font-family-preview: D2Coding, Karla, Avenir Next, Helvetica, Arial, sans-serif;
+  --font-family-preview-heading: D2Coding, Rubik, Avenir Next, Helvetica, Arial, sans-serif; }
 
 .theme-light,
 .theme-dark {
