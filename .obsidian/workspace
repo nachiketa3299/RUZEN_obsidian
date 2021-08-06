@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "😍 21/2108.md",
-            "mode": "source"
+            "file": "예술비평연구회 징계건 타임라인.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "😍 21/2108.md",
+                "file": "예술비평연구회 징계건 타임라인.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "😍 21/2108.md"
+                "file": "예술비평연구회 징계건 타임라인.md"
               }
             }
           },
@@ -113,20 +113,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5001220703125,
-    "collapsed": true
+    "width": 320.5001220703125
   },
   "active": "d728ccd23300b9cb",
   "lastOpenFiles": [
+    "예술비평연구회 징계건 타임라인.md",
     "😍 21/2108.md",
-    "Projects/My Projects.md",
-    "Review/Movie/Movies.md",
-    "모가디슈.md",
-    "Review/Movies.md",
-    "Projects/C/C Lang Study Plan.md",
-    "Projects/C/C.md",
-    "😍 Weekly/2108.md",
-    "Projects/Death Stranding 감상문 작성.md",
-    "Projects/C/C Lang Study Plan 2.md"
+    "😍 21/예온정신의학과 상담 일지.md",
+    "Home.md",
+    "💻 Projects/Computer/C/C Study Plan.md",
+    "💻 Projects/Computer/C/C.md",
+    "💻 Projects/Wiki/배열의 이름과 포인터의 관계에 대해서.md",
+    "예온정신의학과 상담 일지.md",
+    "Projects/Crossfit.md",
+    "Projects/무제노트.md"
   ]
 }
