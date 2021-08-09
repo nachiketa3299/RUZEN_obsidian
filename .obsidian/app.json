@@ -15,7 +15,7 @@
     "downscalePercent": 100
   },
   "attachmentFolderPath": "Img",
-  "showFrontmatter": true,
+  "showFrontmatter": false,
   "defaultViewMode": "preview",
   "emacsyKeys": false,
   "fileSortOrder": "alphabetical"

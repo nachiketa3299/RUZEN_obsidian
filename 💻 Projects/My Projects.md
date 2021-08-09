@@ -21,7 +21,7 @@
 # 완료한 프로젝트
 | Last Check | Time(min) | Project Name                   | Status     | Start Date  | Deadline    |
 | ---------- | --------- | ------------------------------ | ---------- | ----------- | ----------- |
-| 210622     | 214       | 예술비평연구회 음악 발제 준비  | #Complete  | 210620     |            |
-| 210712     | 596       | 예술비평연구회 정기세미나 준비 | #Complete  | 210706     |            |
-| 210718     | 30        | <랑종> 감상문 작성             | #Complete  | 210729     |            |
+| 210622     | 214       | [[About <The Downward Spiral>]] | #Complete  | 210620     |            |
+| 210712     | 596       | [[Ludonarrative Dissonence]] | #Complete  | 210706     |            |
+| 210718     | 30        | [[Rang Zong]]            | #Complete  | 210729     |            |
 
