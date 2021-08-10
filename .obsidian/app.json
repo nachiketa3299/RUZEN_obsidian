@@ -5,7 +5,7 @@
   "vimMode": true,
   "alwaysUpdateLinks": true,
   "lineWrap": true,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "promptDelete": false,
   "showUnsupportedFiles": true,
   "pdfExportSettings": {

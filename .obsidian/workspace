@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "ea7a2026b829054c",
+        "id": "42f37650dad76098",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🍎 Routines/📍 TodoList.md",
-            "mode": "preview"
+            "file": "🍎 Routines/Daily/210810.md",
+            "mode": "source"
           }
         }
       }
@@ -47,12 +47,21 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "22d2b59c2993f2f7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 247.49999809265137
+    "width": 246.51219177246094,
+    "collapsed": true
   },
   "right": {
     "id": "c98e8449c13f2c54",
@@ -68,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🍎 Routines/📍 TodoList.md",
+                "file": "🍎 Routines/Daily/210810.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🍎 Routines/📍 TodoList.md"
+                "file": "🍎 Routines/Daily/210810.md"
               }
             }
           },
@@ -107,26 +116,38 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "0a04c693f9934a5c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "🍎 Routines/Daily/210810.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 320.5001220703125,
     "collapsed": true
   },
-  "active": "ea7a2026b829054c",
+  "active": "42f37650dad76098",
   "lastOpenFiles": [
+    "🍎 Routines/Daily/210810.md",
     "🍎 Routines/📍 TodoList.md",
-    "🍎 Routines/Daily/무제노트.md",
+    "👀 Review/Game/Game News/GN210810.md",
+    "🍎 Routines/Mental Care/M210820.md",
+    "🍎 Routines/Mental Care/M210806.md",
+    "💻 Projects/Computer/C Lang/C Study Plan.md",
     "Home.md",
-    "매일미정.md",
-    "🍎 Routines/Daily/210809.md",
-    "🍎 Routines/Daily/210807.md",
-    "Power Snatch.md",
-    "무제노트.md",
-    "🍎 Routines/Crossfit/C210806.md",
-    "💻 Projects/Mail with Allyson Park.md"
+    "🍎 Routines/Crossfit/C210810.md",
+    "💻 Projects/Death Stranding/Death Stranding Article.md",
+    "👀 Review/Game/Game News/무제노트.md"
   ]
 }

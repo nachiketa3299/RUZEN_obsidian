@@ -1,6 +1,6 @@
 # RUZEN's Homepage
 ## Today
-![[210809]]
+![[210810]]
 
 ## Projects
 ![[My Projects#진행중인 프로젝트]]
